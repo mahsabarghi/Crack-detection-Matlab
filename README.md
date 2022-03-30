@@ -1,1 +1,2 @@
 # Crack-detection-Matlab
+Detection of surface cracks is an important task in monitoring the structural health of concrete structures. If cracks develop and continue to propagate, they reduce the effective load-bearing surface area and can cause the failure of the structure over time. Various methods are used for detecting cracks. Here PCNN (Pulse Coupled Neural Network) is used for detecting a crack.
